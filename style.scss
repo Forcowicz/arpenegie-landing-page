@@ -35,7 +35,7 @@ body {
 }
 
 .logo {
-  height: 22rem;
+  height: 6vmax;
 
   margin-bottom: 4rem;
 
@@ -44,7 +44,7 @@ body {
 
 @media only screen and (max-width: 600px) {
   .logo {
-    height: 14rem;
+    height: 1.5vmax;
   }
 }
 
